@@ -17,3 +17,13 @@
 + :sleeping: Sleeping
 + :grin: Smile
 + :anguished: Shocked
+# Keyboard shortcuts
+Shortcuts I frequently use: 
+- Ctrl-C (copy)
+- Ctrl-V (paste)
+- Ctrl-Z (undo)
+
+Shortcuts I would like to start using: 
+- Ctrl-T (new tab)
+- Ctrl-Shift-T (reopen closed tab)
+- Ctrl-Delete (delete portions of text at once)
