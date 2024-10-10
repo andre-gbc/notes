@@ -1,3 +1,6 @@
+# cli.md file
+[CLI commands](docs/cli.md)
+
 # Number Row Characters
 + ! exclamation mark
 + @ at sign
