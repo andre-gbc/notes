@@ -1,3 +1,6 @@
+# players.json and players.yml files
+[JSON](docs/players.json), [YAML](docs/players.yml)
+
 # cli.md file
 [CLI commands](docs/cli.md)  
 
